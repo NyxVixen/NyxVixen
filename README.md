@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NyxVixen
+- 👋 Hi, I’m @NyxVixen (Real name: Anastasia, most call me Stacee)
 - 👀 I’m interested in ... frontend development 
 - 🌱 I’m currently learning ... HTML, CSS, JS, and React
 - 💞️ I’m looking to collaborate on ... any projects open and available :)
